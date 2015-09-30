@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易纂言外翼
-#+DATE: 2015-09-23 09:34:51
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:56:28.566956
+#+PROPERTY: ID KR1a0072
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0072_WYG_000-1a>¶
 欽定四庫全書　　　　經部一¶
 　易纂言外翼　　　　　易類¶
@@ -44,6 +46,7 @@
 　　　　上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1a0072_WYG_000-4a>¶
 易纂言外翼十二篇原序¶
 羲皇卦畫先後一定自然而然文王分八卦為上下篇¶
@@ -83,4 +86,3 @@
 <pb:KR1a0072_WYG_000-6a>¶
 十二¶
 　凡十二篇是為易纂言外翼云¶
-

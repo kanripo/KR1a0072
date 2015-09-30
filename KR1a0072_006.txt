@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易纂言外翼
-#+DATE: 2015-09-23 09:34:51
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 21:56:28.665823
+#+PROPERTY: ID KR1a0072
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六 
 <pb:KR1a0072_WYG_006-1a>¶
 欽定四庫全書¶
 　易纂言外翼卷六　　　　　元　呉澄　撰¶
@@ -464,4 +466,3 @@
 <pb:KR1a0072_WYG_006-26b>¶
 象例占例辭例之説有纂言之所已言而推廣餘意者¶
 有纂言之所未言而兼存别説者故間有微不同者焉¶
-
